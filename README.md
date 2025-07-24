@@ -1,10 +1,8 @@
 <div align="center">
 
-<!-- Hero Section with Gradient Background -->
-<img width="100%" height="300" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=300&section=header&text=Kristijan%20Kralevski&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20|%20React%20Specialist&descAlignY=55&descSize=20" />
+<img width="100%" height="300" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=300&section=header&text=Kristijan%20Kralevski&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer" />
 
-<!-- Typing Animation -->
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&duration=2000&pause=1000&color=00D9FF&center=true&vCenter=true&width=800&lines=🚀+Building+the+Future+of+Web;⚡+React+%7C+Next.js+%7C+Laravel;💡+3%2B+Years+of+Innovation" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&duration=2000&pause=1000&color=00D9FF&center=true&vCenter=true&width=800&lines=🚀+Web+development+done+right.⚡+React+%7C+Next.js+%7C+Laravel;💡+3%2B+Years+of+Experience" alt="Typing SVG" />
 
 </div>
 
@@ -12,12 +10,11 @@
 
 ```typescript
 const developer = {
-  name: "Kristijan Kralevski",
+  fullName: "Kristijan Kralevski",
   role: "Full-Stack Developer",
-  location: "🌍",
+  location: "Macedonia",
   experience: "3+ years",
-  focus: ["Frontend Excellence", "Modern Web Apps", "Clean Architecture"],
-  motto: "Code with passion, build with purpose"
+  focus: ["Frontend Perfection", "Modern & Scalable Web Apps", "Clean Code"]
 };
 ```
 
