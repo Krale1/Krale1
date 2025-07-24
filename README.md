@@ -4,7 +4,7 @@
 <img width="100%" height="300" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=300&section=header&text=Kristijan%20Kralevski&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20|%20React%20Specialist&descAlignY=55&descSize=20" />
 
 <!-- Typing Animation -->
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=28&duration=2000&pause=1000&color=00D9FF&center=true&vCenter=true&width=800&lines=🚀+Building+the+Future+of+Web;⚡+React+%7C+Next.js+%7C+Laravel;💡+3%2B+Years+of+Innovation" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&duration=2000&pause=1000&color=00D9FF&center=true&vCenter=true&width=800&lines=🚀+Building+the+Future+of+Web;⚡+React+%7C+Next.js+%7C+Laravel;💡+3%2B+Years+of+Innovation" alt="Typing SVG" />
 
 </div>
 
