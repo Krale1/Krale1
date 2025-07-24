@@ -1,76 +1,126 @@
-<!-- Typing SVG Animation -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=black&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Kristijan+Kralevski;Front-End+Developer;React+%7C+Next.js+%7C+Tailwind+CSS;Laravel+%7C+Full+Stack+Enthusiast" alt="Typing SVG" />
-</p>
+<div align="center">
 
-# 👋 Hi, I'm Kristijan Kralevski  
+<!-- Hero Section with Gradient Background -->
+<img width="100%" height="300" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=300&section=header&text=Kristijan%20Kralevski&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20|%20React%20Specialist&descAlignY=55&descSize=20" />
 
-**Front-End Developer | React | Next.js | Tailwind CSS | Laravel**  
+<!-- Typing Animation -->
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=28&duration=2000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=800&height=100&lines=🚀+Building+the+Future+of+Web;⚡+React+%7C+Next.js+%7C+Laravel;💡+3%2B+Years+of+Innovation" alt="Typing SVG" />
 
-💻 Passionate about building **modern, responsive, and performant web applications** with clean, maintainable code.  
-With **3+ years of experience**, I specialize in crafting dynamic UIs and delivering full-stack solutions when needed.  
+</div>
+
+## 🎯 About Me
+
+```typescript
+const developer = {
+  name: "Kristijan Kralevski",
+  role: "Full-Stack Developer",
+  location: "🌍",
+  experience: "3+ years",
+  focus: ["Frontend Excellence", "Modern Web Apps", "Clean Architecture"],
+  motto: "Code with passion, build with purpose"
+};
+```
+
+<div align="center">
+
+### 🏆 **Crafting Digital Experiences That Matter**
+
+*Specialized in building lightning-fast, responsive web applications with cutting-edge technologies*
+
+</div>
 
 ---
 
-### 🛠 Tech Stack
+## ⚡ Tech Arsenal
+
+<div align="center">
+
+### 🎨 **Frontend Mastery**
 <p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,html,css,tailwind,sass" />
 </p>
 
----
-
-### 🌟 Featured Projects  
-
-<table>
-<tr>
-<td width="33%">
-  <img src="https://i.ibb.co/YZ0sc1v/Creatiosa.png" width="100%" />
-  <h3 align="center">Creatiosa LTD</h3>
-</td>
-<td width="33%">
-  <img src="https://i.ibb.co/xJZr9D0/MyPlex.png" width="100%" />
-  <h3 align="center">MyPlex</h3>
-</td>
-<td width="33%">
-  <img src="https://i.ibb.co/pPSsQjC/Founder-Games.png" width="100%" />
-  <h3 align="center">The Founder Games</h3>
-</td>
-</tr>
-
-<tr>
-<td width="33%">
-  <img src="https://i.ibb.co/c3Yt1pJ/Aclue.png" width="100%" />
-  <h3 align="center">Aclue</h3>
-</td>
-<td width="33%">
-  <img src="https://i.ibb.co/JyknrNz/EdgeByte.png" width="100%" />
-  <h3 align="center">EdgeByte</h3>
-</td>
-<td width="33%">
-  <img src="https://i.ibb.co/TMjDfnc/Resume-Target.png" width="100%" />
-  <h3 align="center">Resume Target</h3>
-</td>
-</tr>
-</table>
-
----
-
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=krale1&show_icons=true&theme=radical" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=krale1&theme=radical" alt="Streak" width="48%" />
+### 🔧 **Backend & Tools**
+<p>
+  <img src="https://skillicons.dev/icons?i=laravel,php,nodejs,mysql,git,docker,vscode,figma" />
 </p>
 
+</div>
+
 ---
 
-### 📫 Connect With Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kristijan-kralevski/)  
-[![Upwork](https://img.shields.io/badge/Upwork-6fda44?style=for-the-badge&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/~01cfd6041d3b6deabb)  
+## 🌟 **Featured Projects**
 
-⭐ **Feel free to check my repositories below and let's collaborate!**
+<div align="center">
+
+| **🏢 Enterprise Solutions** | **🎮 Interactive Platforms** | **🎯 Business Tools** |
+|:---:|:---:|:---:|
+| [![Creatiosa](https://i.ibb.co/YZ0sc1v/Creatiosa.png)](https://github.com/krale1) | [![MyPlex](https://i.ibb.co/xJZr9D0/MyPlex.png)](https://github.com/krale1) | [![Founder Games](https://i.ibb.co/pPSsQjC/Founder-Games.png)](https://github.com/krale1) |
+| **Creatiosa LTD** | **MyPlex** | **The Founder Games** |
+| *Modern corporate platform* | *Entertainment hub* | *Strategic gaming platform* |
+
+| **🔍 Analytics** | **⚡ Performance** | **📄 Productivity** |
+|:---:|:---:|:---:|
+| [![Aclue](https://i.ibb.co/c3Yt1pJ/Aclue.png)](https://github.com/krale1) | [![EdgeByte](https://i.ibb.co/JyknrNz/EdgeByte.png)](https://github.com/krale1) | [![Resume Target](https://i.ibb.co/TMjDfnc/Resume-Target.png)](https://github.com/krale1) |
+| **Aclue** | **EdgeByte** | **Resume Target** |
+| *Data-driven insights* | *High-performance solutions* | *Professional resume builder* |
+
+</div>
+
+---
+
+## 📈 **Performance Metrics**
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=krale1&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=C9D1D9"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=krale1&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=krale1&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF" alt="GitHub Streak" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=krale1&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&area=true&hide_border=true" />
+
+</div>
+
+---
+
+## 🎯 **What I Bring to the Table**
+
+<div align="center">
+
+```diff
++ 🚀 Performance-optimized React applications
++ 💎 Pixel-perfect UI implementations  
++ ⚡ Lightning-fast Next.js solutions
++ 🎨 Modern, responsive designs
++ 🔧 Full-stack Laravel expertise
++ 📱 Mobile-first development approach
++ 🧪 Test-driven development practices
++ 🔄 Agile workflow integration
+```
+
+</div>
+
+---
+
+## 🌐 **Let's Connect & Collaborate**
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2)](https://www.linkedin.com/in/kristijan-kralevski/)
+[![Upwork](https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white&labelColor=6FDA44)](https://www.upwork.com/freelancers/~01cfd6041d3b6deabb)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=FF5722)](#)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=EA4335)](mailto:your.email@gmail.com)
+
+---
+
+### 💡 **"Great software is built by passionate developers who care about every detail"**
+
+*Ready to turn your ideas into exceptional digital experiences? Let's build something amazing together!*
+
+<img src="https://komarev.com/ghpvc/?username=krale1&color=00D9FF&style=for-the-badge&label=Profile+Views" />
+
+</div>
+
+<!-- Footer Wave -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=150&section=footer" />
