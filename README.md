@@ -1,6 +1,6 @@
 <!-- Typing SVG Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=1EFF00&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Kristijan+Kralevski;Front-End+Developer;React+%7C+Next.js+%7C+Tailwind+CSS;Laravel+%7C+Full+Stack+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=black&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Kristijan+Kralevski;Front-End+Developer;React+%7C+Next.js+%7C+Tailwind+CSS;Laravel+%7C+Full+Stack+Enthusiast" alt="Typing SVG" />
 </p>
 
 # 👋 Hi, I'm Kristijan Kralevski  
