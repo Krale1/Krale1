@@ -58,7 +58,7 @@ const developer = {
 
 | **🔍 Analytics** | **⚡ Performance** | **📄 Productivity** |
 |:---:|:---:|:---:|
-| [![Aclue](/Aclue.png)](https://www.aclue.swiss/) | [![EdgeByte](/EdgeByte.png)](https://edgebyte.io/) | [![Resume Target](/Resume-Target.png)](https://resumetarget.com/) |
+| [![Aclue](/Aclue.png)](https://www.aclue.swiss/) | [![EdgeByte](/EdgeByte.png)](https://edgebyte.io/) | [![Resume Target](/ResumeTarget.png)](https://resumetarget.com/) |
 | **Aclue** | **EdgeByte** | **Resume Target** |
 | *Data-driven insights* | *High-performance solutions* | *Professional resume builder* |
 
