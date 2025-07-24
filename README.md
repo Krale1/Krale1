@@ -58,7 +58,7 @@ const developer = {
 
 | **🔍 Analytics** | **⚡ Performance** | **📄 Productivity** |
 |:---:|:---:|:---:|
-| [![Aclue](https://i.ibb.co/c3Yt1pJ/Aclue.png)](https://github.com/krale1) | [![EdgeByte](https://i.ibb.co/JyknrNz/EdgeByte.png)](https://github.com/krale1) | [![Resume Target](https://i.ibb.co/TMjDfnc/Resume-Target.png)](https://github.com/krale1) |
+| [![Aclue](/Aclue.png)](https://github.com/krale1) | [![EdgeByte](https://i.ibb.co/JyknrNz/EdgeByte.png)](https://github.com/krale1) | [![Resume Target](https://i.ibb.co/TMjDfnc/Resume-Target.png)](https://github.com/krale1) |
 | **Aclue** | **EdgeByte** | **Resume Target** |
 | *Data-driven insights* | *High-performance solutions* | *Professional resume builder* |
 
