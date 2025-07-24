@@ -52,13 +52,13 @@ const developer = {
 
 | **🏢 Enterprise Solutions** | **🎮 Interactive Platforms** | **🎯 Business Tools** |
 |:---:|:---:|:---:|
-| [![Creatiosa](https://i.ibb.co/c3Yt1pJ/Creatiosa.png)](https://github.com/krale1) | [![MyPlex](https://i.ibb.co/xJZr9D0/MyPlex.png)](https://github.com/krale1) | [![Founder Games](https://i.ibb.co/pPSsQjC/Founder-Games.png)](https://github.com/krale1) |
+| [![Creatiosa](/Creatiosa.png)]([https://github.com/krale1](https://creatiosa.com/)) | [/MyPlex.png)]([https://github.com/krale1](https://myplex.tv/)) | [![Founder Games](https://i.ibb.co/pPSsQjC/Founder-Games.png)](https://github.com/krale1) |
 | **Creatiosa LTD** | **MyPlex** | **The Founder Games** |
 | *Modern corporate platform* | *Entertainment hub* | *Strategic gaming platform* |
 
 | **🔍 Analytics** | **⚡ Performance** | **📄 Productivity** |
 |:---:|:---:|:---:|
-| [![Aclue](/Aclue.png)](https://github.com/krale1) | [![EdgeByte](https://i.ibb.co/JyknrNz/EdgeByte.png)](https://github.com/krale1) | [![Resume Target](https://i.ibb.co/TMjDfnc/Resume-Target.png)](https://github.com/krale1) |
+| [![Aclue](/Aclue.png)]([https://github.com/krale1](https://www.aclue.swiss/)) | [/EdgeByte.png)]([https://github.com/krale1](https://edgebyte.io/)) | [![Resume Target](https://i.ibb.co/TMjDfnc/Resume-Target.png)](https://github.com/krale1) |
 | **Aclue** | **EdgeByte** | **Resume Target** |
 | *Data-driven insights* | *High-performance solutions* | *Professional resume builder* |
 
