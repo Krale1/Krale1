@@ -2,7 +2,7 @@
 
 <img width="100%" height="300" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=300&section=header&text=Kristijan%20Kralevski&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer" />
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&duration=2000&pause=1000&color=00D9FF&center=true&vCenter=true&width=800&lines=🚀+Web+development+done+right.⚡+React+%7C+Next.js+%7C+Laravel;💡+3%2B+Years+of+Experience" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&duration=2000&pause=1000&color=39FF14&center=true&vCenter=true&width=800&lines=🚀+Web+development+done+right;⚡+React+%7C+Next.js+%7C+Laravel;💡+3%2B+Years+of+Experience" alt="Typing SVG" />
 
 </div>
 
@@ -153,16 +153,16 @@ const developer = {
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=krale1&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=C9D1D9"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=krale1&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=krale1&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&  title_color=39FF14&icon_color=39FF14&text_color=C9D1D9"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=krale1&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=39FF14&text_color=C9D1D9"/>
 
 <br /><br />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=krale1&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF" alt="GitHub Streak" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=krale1&theme=tokyonight&hide_border=true&background=0D1117&stroke=39FF14&ring=39FF14&fire=FF6B6B&currStreakLabel=39FF14" alt="GitHub Streak" />
 
 <br /><br />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=krale1&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&area=true&hide_border=true" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=krale1&bg_color=0D1117&color=39FF14&line=39FF14&point=FFFFFF&area=true&hide_border=true" />
 
 </div>
 
@@ -240,7 +240,7 @@ const developer = {
 
 <br />
 
-<img src="https://komarev.com/ghpvc/?username=krale1&color=00D9FF&style=for-the-badge&label=Profile+Views" />
+<img src="https://komarev.com/ghpvc/?username=krale1&color=39FF14&style=for-the-badge&label=Profile+Views" />
 
 </div>
 
