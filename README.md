@@ -73,7 +73,8 @@ const developer = {
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=krale1&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=6366F1&text_color=C9D1D9"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=krale1&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&text_color=C9D1D9"/>
 
-<img src="https://streak-stats.demolab.com/?user=krale1&theme=tokyonight&hide_border=true&background=0D1117&stroke=6366F1&ring=6366F1&fire=6366F1&currStreakLabel=6366F1" alt="GitHub Streak" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=krale1&theme=tokyonight&background=0D1117&hide_border=true&stroke=6366F1&ring=6366F1&fire=6366F1&currStreakLabel=6366F1" alt="GitHub Streak" />
+
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=krale1&bg_color=0D1117&color=6366F1&line=6366F1&point=FFFFFF&area=true&hide_border=true" />
 
