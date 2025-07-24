@@ -75,7 +75,7 @@ const developer = {
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=krale1&theme=tokyonight&hide_border=true&background=0D1117&stroke=6366F1&ring=6366F1&fire=6366F1&currStreakLabel=6366F1" alt="GitHub Streak" />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=krale1&bg_color=0D1117&color=6366F1&line=6366F1&point=FFFFFF&area=true&hide_border=true" />
+<img src="https://github-readme-streak-stats.herokuapp.com?user=krale1&theme=tokyonight&hide_border=true&background=0D1117&ring=6366F1&fire=FF6B6B&currStreakLabel=FFFFFF" alt="GitHub Streak" />
 
 </div>
 
