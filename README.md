@@ -119,4 +119,4 @@ const developer = {
 </div>
 
 <!-- Footer Wave -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,8,10,12,14&height=150&section=footer" />
+<img src="https://komarev.com/ghpvc/?username=krale1&color=000000&style=for-the-badge&label=Profile+Views" /> </div> <!-- Footer Wave with fixed gradient --> <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,4,6,8&height=150&section=footer" /> ```
