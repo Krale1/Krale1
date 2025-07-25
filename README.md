@@ -1,8 +1,8 @@
 <div align="center">
 
-<img width="100%" height="300" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,1,2,3,4&height=300&section=header&text=Kristijan%20Kralevski&fontSize=50&fontColor=E2E8F0&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer" />
+<img width="100%" height="300" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,8,10,12,14&height=300&section=header&text=Kristijan%20Kralevski&fontSize=50&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer" />
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&duration=2000&pause=1000&color=00D9FF&center=true&vCenter=true&width=800&lines=🚀+Web+development+done+right;⚡+React+%7C+Next.js+%7C+Laravel;💡+3%2B+Years+of+Experience" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&duration=2000&pause=1000&color=00FFFF&center=true&vCenter=true&width=800&lines=🚀+Web+development+done+right;⚡+React+%7C+Next.js+%7C+Laravel;💡+3%2B+Years+of+Experience" alt="Typing SVG" />
 
 </div>
 
@@ -70,11 +70,11 @@ const developer = {
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=krale1&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0A0E27&title_color=00D9FF&icon_color=00D9FF&text_color=E2E8F0&cache_seconds=1800&v=1"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=krale1&layout=compact&langs_count=8&theme=dark&hide_border=true&bg_color=0A0E27&title_color=00D9FF&text_color=E2E8F0&cache_seconds=1800&v=1"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=krale1&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0A0A0A&title_color=00FFFF&icon_color=00FFFF&text_color=FFFFFF&cache_seconds=1800&v=1"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=krale1&layout=compact&langs_count=8&theme=dark&hide_border=true&bg_color=0A0A0A&title_color=00FFFF&text_color=FFFFFF&cache_seconds=1800&v=1"/>
 
-<img src="https://streak-stats.demolab.com/?user=krale1&theme=dark&background=0A0E27&hide_border=true&stroke=00D9FF&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF&sideLabels=E2E8F0&dates=E2E8F0&currStreakNum=E2E8F0" alt="GitHub Streak" />
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=krale1&bg_color=0A0E27&color=00D9FF&line=00D9FF&point=E2E8F0&area=true&hide_border=true&v=1" />
+<img src="https://streak-stats.demolab.com/?user=krale1&theme=dark&background=0A0A0A&hide_border=true&stroke=00FFFF&ring=00FFFF&fire=00FFFF&currStreakLabel=00FFFF&sideLabels=FFFFFF&dates=FFFFFF&currStreakNum=FFFFFF" alt="GitHub Streak" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=krale1&bg_color=0A0A0A&color=00FFFF&line=00FFFF&point=FFFFFF&area=true&hide_border=true&v=1" />
 
 </div>
 
@@ -103,10 +103,10 @@ const developer = {
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-00D9FF?style=for-the-badge&logo=linkedin&logoColor=0A0E27&labelColor=00D9FF)](https://www.linkedin.com/in/kristijan-kralevski/)
-[![Upwork](https://img.shields.io/badge/Upwork-00D9FF?style=for-the-badge&logo=upwork&logoColor=0A0E27&labelColor=00D9FF)](https://www.upwork.com/freelancers/~01cfd6041d3b6deabb)
-[![Portfolio](https://img.shields.io/badge/Portfolio-1E293B?style=for-the-badge&logo=google-chrome&logoColor=00D9FF&labelColor=1E293B)](#)
-[![Email](https://img.shields.io/badge/Email-1E293B?style=for-the-badge&logo=gmail&logoColor=00D9FF&labelColor=1E293B)](mailto:kralevski.a23070@next.edu.mk)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-00FFFF?style=for-the-badge&logo=linkedin&logoColor=000000&labelColor=00FFFF)](https://www.linkedin.com/in/kristijan-kralevski/)
+[![Upwork](https://img.shields.io/badge/Upwork-00FFFF?style=for-the-badge&logo=upwork&logoColor=000000&labelColor=00FFFF)](https://www.upwork.com/freelancers/~01cfd6041d3b6deabb)
+[![Portfolio](https://img.shields.io/badge/Portfolio-1A1A1A?style=for-the-badge&logo=google-chrome&logoColor=00FFFF&labelColor=1A1A1A)](#)
+[![Email](https://img.shields.io/badge/Email-1A1A1A?style=for-the-badge&logo=gmail&logoColor=00FFFF&labelColor=1A1A1A)](mailto:kralevski.a23070@next.edu.mk)
 
 ---
 
@@ -114,9 +114,9 @@ const developer = {
 
 *Ready to turn your ideas into exceptional digital experiences? Let's build something amazing together!*
 
-<img src="https://komarev.com/ghpvc/?username=krale1&color=00D9FF&style=for-the-badge&label=Profile+Views" />
+<img src="https://komarev.com/ghpvc/?username=krale1&color=00FFFF&style=for-the-badge&label=Profile+Views" />
 
 </div>
 
 <!-- Footer Wave -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,1,2,3,4&height=150&section=footer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,8,10,12,14&height=150&section=footer" />
