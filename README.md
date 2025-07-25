@@ -52,17 +52,18 @@ const developer = {
 
 | **🏢 Enterprise Solutions** | **🎮 Interactive Platforms** | **🎯 Business Tools** |
 |:---:|:---:|:---:|
-| [![Creatiosa](/Creatiosa.png)](https://creatiosa.com/) | [![MyPlex](/MyPlex.png)](https://myplex.tv/) | [![Founder Games](/FounderGames.png)](https://foundergames.com/) |
+| <a href="https://creatiosa.com/"><img src="/Creatiosa.png" alt="Creatiosa" width="200" height="150"></a> | <a href="https://myplex.tv/"><img src="/MyPlex.png" alt="MyPlex" width="200" height="150"></a> | <a href="https://foundergames.com/"><img src="/FounderGames.png" alt="Founder Games" width="200" height="150"></a> |
 | **Creatiosa LTD** | **MyPlex** | **The Founder Games** |
 | *Modern corporate platform* | *Entertainment hub* | *Strategic gaming platform* |
 
 | **🔍 Analytics** | **⚡ Performance** | **📄 Productivity** |
 |:---:|:---:|:---:|
-| [![Aclue](/Aclue.png)](https://www.aclue.swiss/) | [![EdgeByte](/EdgeByte.png)](https://edgebyte.io/) | [![Resume Target](/ResumeTarget.png)](https://resumetarget.com/) |
+| <a href="https://www.aclue.swiss/"><img src="/Aclue.png" alt="Aclue" width="200" height="150"></a> | <a href="https://edgebyte.io/"><img src="/EdgeByte.png" alt="EdgeByte" width="200" height="150"></a> | <a href="https://resumetarget.com/"><img src="/ResumeTarget.png" alt="Resume Target" width="200" height="150"></a> |
 | **Aclue** | **EdgeByte** | **Resume Target** |
 | *Data-driven insights* | *High-performance solutions* | *Professional resume builder* |
 
 </div>
+
 
 ---
 
