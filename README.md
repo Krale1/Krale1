@@ -103,10 +103,10 @@ const developer = {
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A0A0A?style=for-the-badge&logo=linkedin&logoColor=00FFFF&labelColor=0A0A0A)](https://www.linkedin.com/in/kristijan-kralevski/)
-[![Upwork](https://img.shields.io/badge/Upwork-0A0A0A?style=for-the-badge&logo=upwork&logoColor=00FFFF&labelColor=0A0A0A)](https://www.upwork.com/freelancers/~01cfd6041d3b6deabb)
-[![Portfolio](https://img.shields.io/badge/Portfolio-0A0A0A?style=for-the-badge&logo=google-chrome&logoColor=00FFFF&labelColor=0A0A0A)](#)
-[![Email](https://img.shields.io/badge/Email-0A0A0A?style=for-the-badge&logo=gmail&logoColor=00FFFF&labelColor=0A0A0A)](mailto:kralevski.a23070@next.edu.mk)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kristijan-kralevski/)
+[![Upwork](https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/~01cfd6041d3b6deabb)
+[![Portfolio](https://img.shields.io/badge/Portfolio-0A0A0A?style=for-the-badge&logo=google-chrome&logoColor=00FFFF)](#)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kralevski.a23070@next.edu.mk)
 
 ---
 
