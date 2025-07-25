@@ -62,43 +62,6 @@ const developer = {
 | *Swiss IT studio for custom tools* | *In-app monetization & ads* | *Professional resume writers* |
 | `Next.js` `Tailwind CSS` | `HTML` `Tailwind CSS` `JavaScript` | `HTML` `CSS` `JavaScript` `PHP` |
 
-<details>
-<summary>📱 <strong>Mobile View</strong></summary>
-
-### Projects
-
-**🏢 Creatiosa LTD**  
-<a href="https://creatiosa.com/"><img src="/Creatiosa.png" alt="Creatiosa" width="280" height="160"></a>  
-*Cyprus-based software company*  
-`Tailwind CSS` `JavaScript` `HTML5`
-
-**📺 MyPlex**  
-<a href="https://myplex.tv/"><img src="/MyPlex.png" alt="MyPlex" width="280" height="160"></a>  
-*Streaming media platform*  
-`HTML5` `Tailwind CSS` `JavaScript`
-
-**🎮 The Founder Games**  
-<a href="https://www.foundergames.com/"><img src="/FounderGames.png" alt="Founder Games" width="280" height="160"></a>  
-*Startup accelerator program*  
-`React` `Tailwind CSS` `Laravel`
-
-**🔧 Aclue**  
-<a href="https://www.aclue.swiss/"><img src="/Aclue.png" alt="Aclue" width="280" height="160"></a>  
-*Swiss IT studio for custom tools*  
-`Next.js` `Tailwind CSS`
-
-**⚡ EdgeByte**  
-<a href="https://edgebyte.io/"><img src="/EdgeByte.png" alt="EdgeByte" width="280" height="160"></a>  
-*In-app monetization & ads*  
-`HTML` `Tailwind CSS` `JavaScript`
-
-**📄 Resume Target**  
-<a href="https://resumetarget.com/"><img src="/ResumeTarget.png" alt="Resume Target" width="280" height="160"></a>  
-*Professional resume writers*  
-`HTML` `CSS` `JavaScript` `PHP`
-
-</details>
-
 </div>
 
 ---
