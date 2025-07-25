@@ -103,10 +103,10 @@ const developer = {
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-00FFFF?style=for-the-badge&logo=linkedin&logoColor=000000&labelColor=00FFFF)](https://www.linkedin.com/in/kristijan-kralevski/)
-[![Upwork](https://img.shields.io/badge/Upwork-00FFFF?style=for-the-badge&logo=upwork&logoColor=000000&labelColor=00FFFF)](https://www.upwork.com/freelancers/~01cfd6041d3b6deabb)
-[![Portfolio](https://img.shields.io/badge/Portfolio-1A1A1A?style=for-the-badge&logo=google-chrome&logoColor=00FFFF&labelColor=1A1A1A)](#)
-[![Email](https://img.shields.io/badge/Email-1A1A1A?style=for-the-badge&logo=gmail&logoColor=00FFFF&labelColor=1A1A1A)](mailto:kralevski.a23070@next.edu.mk)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A0A0A?style=for-the-badge&logo=linkedin&logoColor=00FFFF&labelColor=0A0A0A)](https://www.linkedin.com/in/kristijan-kralevski/)
+[![Upwork](https://img.shields.io/badge/Upwork-0A0A0A?style=for-the-badge&logo=upwork&logoColor=00FFFF&labelColor=0A0A0A)](https://www.upwork.com/freelancers/~01cfd6041d3b6deabb)
+[![Portfolio](https://img.shields.io/badge/Portfolio-0A0A0A?style=for-the-badge&logo=google-chrome&logoColor=00FFFF&labelColor=0A0A0A)](#)
+[![Email](https://img.shields.io/badge/Email-0A0A0A?style=for-the-badge&logo=gmail&logoColor=00FFFF&labelColor=0A0A0A)](mailto:kralevski.a23070@next.edu.mk)
 
 ---
 
@@ -119,4 +119,4 @@ const developer = {
 </div>
 
 <!-- Footer Wave -->
-<img src="https://komarev.com/ghpvc/?username=krale1&color=000000&style=for-the-badge&label=Profile+Views" /> </div> <!-- Footer Wave with fixed gradient --> <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,4,6,8&height=150&section=footer" /> ```
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,4,6,8&height=150&section=footer" />
