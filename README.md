@@ -11,7 +11,7 @@
 ```typescript
 const developer = {
   fullName: "Kristijan Kralevski",
-  role: "Full-Stack Developer",
+  role: "Software Engineer",
   location: "Macedonia",
   experience: "3+ years",
   focus: ["Frontend Perfection", "Modern & Scalable Web Apps", "Clean Code"]
