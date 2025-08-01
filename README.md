@@ -2,7 +2,7 @@
 
 <img width="100%" height="300" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,4,6,8&height=300&section=header&text=Kristijan%20Kralevski&fontSize=50&fontColor=000000&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer" />
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&duration=2000&pause=1000&color=000000&center=true&vCenter=true&width=800&lines=🚀+Web+development+done+right;⚡+React+%7C+Next.js+%7C+Laravel;💡+3%2B+Years+of+Experience" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&duration=2000&pause=1000&color=000000&center=true&vCenter=true&width=800&lines=🚀+Full-stack+development+%26+AI;⚡+React+%7C+Next.js+%7C+Python+%7C+Laravel;🤖+Machine+Learning+%7C+3%2B+Years+Experience" alt="Typing SVG" />
 
 </div>
 
@@ -14,15 +14,15 @@ const developer = {
   role: "Software Engineer",
   location: "Macedonia",
   experience: "3+ years",
-  focus: ["Frontend Perfection", "Modern & Scalable Web Apps", "Clean Code"]
+  focus: ["Frontend Perfection", "Modern Web Apps", "Machine Learning", "Clean Code"]
 };
 ```
 
 <div align="center">
 
-### 🏆 **Crafting Digital Experiences That Matter**
+### 🏆 **Building Intelligent Digital Solutions**
 
-*Specialized in building lightning-fast, responsive web applications with cutting-edge technologies*
+*Specialized in crafting lightning-fast web applications and intelligent systems with cutting-edge technologies*
 
 </div>
 
@@ -37,9 +37,22 @@ const developer = {
   <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,html,css,tailwind,sass" />
 </p>
 
-### 🔧 **Backend & Tools**
+### 🔧 **Backend & Full-Stack**
 <p>
-  <img src="https://skillicons.dev/icons?i=laravel,php,nodejs,mysql,git,docker,vscode,figma" />
+  <img src="https://skillicons.dev/icons?i=laravel,php,nodejs,python,mysql,git,docker,vscode" />
+</p>
+
+### 🤖 **AI & Machine Learning**
+<p>
+  <img src="https://skillicons.dev/icons?i=python,tensorflow" />
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+</p>
+
+### 🛠️ **Tools & Design**
+<p>
+  <img src="https://skillicons.dev/icons?i=figma,photoshop" />
 </p>
 
 </div>
@@ -90,6 +103,9 @@ const developer = {
 + ⚡ Lightning-fast Next.js solutions
 + 🎨 Modern, responsive designs
 + 🔧 Full-stack Laravel expertise
++ 🐍 Python development & automation
++ 🤖 Machine Learning model development
++ 📊 Data analysis & visualization
 + 📱 Mobile-first development approach
 + 🧪 Test-driven development practices
 + 🔄 Agile workflow integration
@@ -110,9 +126,9 @@ const developer = {
 
 ---
 
-### 💡 **"Great software is built by passionate developers who care about every detail"**
+### 💡 **"Innovation happens at the intersection of great code and intelligent systems"**
 
-*Ready to turn your ideas into exceptional digital experiences? Let's build something amazing together!*
+*Ready to turn your ideas into exceptional digital experiences powered by AI? Let's build something amazing together!*
 
 <img src="https://komarev.com/ghpvc/?username=krale1&color=00FFFF&style=for-the-badge&label=Profile+Views" />
 
