@@ -1,104 +1,47 @@
-<div align="center">
+# Hi, I'm Kristijan 👋
 
-<img width="100%" height="300" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,4,6,8&height=300&section=header&text=Kristijan%20Kralevski&fontSize=50&fontColor=000000&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer" />
+**Automation Engineer** from Skopje, North Macedonia. I build AI-powered workflows that take repetitive business work off people's plates.
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&duration=2000&pause=1000&color=000000&center=true&vCenter=true&width=800&lines=🚀+Full-stack+development+%26+AI;⚡+React+%7C+Next.js+%7C+Python+%7C+Laravel;🤖+Machine+Learning+%7C+3%2B+Years+Experience" alt="Typing SVG" />
+Before automation, I spent 2.5 years as a full-stack freelancer on Upwork, so I build the whole thing: the workflow, the integrations, and the interface around it.
 
-</div>
+## What I do
 
-## 🎯 About Me
+- Design and ship end-to-end automations with **n8n** and **Python**
+- Add LLMs to real business processes (triage, extraction, support, reporting)
+- Connect the tools teams already use into one reliable workflow
+- Self-host and run my own automation infrastructure with **Docker**
 
-```typescript
-const developer = {
-  fullName: "Kristijan Kralevski",
-  role: "Software Engineer",
-  location: "Macedonia",
-  experience: "3+ years",
-  focus: ["Frontend Perfection", "Modern Web Apps", "Machine Learning", "Clean Code"]
-};
-```
+## Selected automation projects
 
-<div align="center">
+| Project | What it does |
+|---|---|
+| **Veda** | Macedonian-language customer support chatbot for Diners Club Macedonia (real client). n8n + Anthropic API + VoyageAI embeddings + Supabase |
+| **AI Ticket Triage** | Classifies, prioritizes and routes incoming support tickets automatically |
+| **Invoice & Receipt Extraction** | Turns documents into clean, structured data |
+| **Competitor Pricing Monitor** | Tracks competitor price changes and sends alerts |
+| **Customer Onboarding Workflow** | Connects multiple apps to onboard new clients end to end |
 
-### 🏆 **Building Intelligent Digital Solutions**
+*Demo projects use a fictional company, "Havelock", a payroll and bookkeeping platform for small businesses.*
 
-*Specialized in crafting lightning-fast web applications and intelligent systems with cutting-edge technologies*
+## Tech stack
 
-</div>
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat&logo=n8n&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white)
+![Anthropic](https://img.shields.io/badge/Anthropic_API-191919?style=flat&logo=anthropic&logoColor=white)
 
----
+Also: full-stack web development, REST APIs, webhooks, vector search / RAG.
 
-## ⚡ Tech Arsenal
+## Freelance track record
 
-<div align="center">
+- ⭐ **100% Job Success** on Upwork
+- 💼 **33 jobs completed**, 2.5+ years freelancing
 
-### 🎨 **Frontend Mastery**
-<p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,html,css,tailwind,sass" />
-</p>
+## Let's work together
 
-### 🔧 **Backend & Full-Stack**
-<p>
-  <img src="https://skillicons.dev/icons?i=laravel,php,nodejs,python,mysql,git,docker,vscode" />
-</p>
+I'm open to automation projects on Upwork and directly.
 
-### 🤖 **AI & Machine Learning**
-<p>
-  <img src="https://skillicons.dev/icons?i=python,tensorflow" />
-  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-</p>
-
-### 🛠️ **Tools & Design**
-<p>
-  <img src="https://skillicons.dev/icons?i=figma,photoshop" />
-</p>
-
-</div>
-
----
-
-## 🎯 **What I Bring to the Table**
-
-<div align="center">
-
-```diff
-+ 🚀 Performance-optimized React applications
-+ 💎 Pixel-perfect UI implementations  
-+ ⚡ Lightning-fast Next.js solutions
-+ 🎨 Modern, responsive designs
-+ 🔧 Full-stack Laravel expertise
-+ 🐍 Python development & automation
-+ 🤖 Machine Learning model development
-+ 📊 Data analysis & visualization
-+ 📱 Mobile-first development approach
-+ 🧪 Test-driven development practices
-+ 🔄 Agile workflow integration
-```
-
-</div>
-
----
-
-## 🌐 **Let's Connect & Collaborate**
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kristijan-kralevski/)
-[![Upwork](https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/~01cfd6041d3b6deabb)
-[![Portfolio](https://img.shields.io/badge/Portfolio-0A0A0A?style=for-the-badge&logo=google-chrome&logoColor=00FFFF)](#)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kralevski.a23070@next.edu.mk)
-
----
-
-### 💡 **"Innovation happens at the intersection of great code and intelligent systems"**
-
-*Ready to turn your ideas into exceptional digital experiences powered by AI? Let's build something amazing together!*
-
-<img src="https://komarev.com/ghpvc/?username=krale1&color=00FFFF&style=for-the-badge&label=Profile+Views" />
-
-</div>
-
-<!-- Footer Wave -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,4,6,8&height=150&section=footer" />
+- 🌐 [Portfolio](https://www.kristijankralevski.com/)
+- 💼 [Upwork](https://www.upwork.com/freelancers/~01cfd6041d3b6deabb)
+- 🔗 [LinkedIn](https://www.linkedin.com/in/kristijan-kralevski/)
